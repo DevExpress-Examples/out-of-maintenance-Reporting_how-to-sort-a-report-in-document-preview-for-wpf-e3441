@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/PreviewSortSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PreviewSortSample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/PreviewSortSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PreviewSortSample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/PreviewSortSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PreviewSortSample/MainWindow.xaml.vb))
 * [OrderDetailsReport.cs](./CS/PreviewSortSample/OrderDetailsReport.cs) (VB: [OrderDetailsReport.vb](./VB/PreviewSortSample/OrderDetailsReport.vb))
 <!-- default file list end -->
