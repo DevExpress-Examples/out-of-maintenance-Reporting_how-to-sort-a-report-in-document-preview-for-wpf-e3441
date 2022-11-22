@@ -59,7 +59,7 @@
             ' 
             ' lbOrderID
             ' 
-            Me.lbOrderID.Font = New System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, (CByte(204)))
+            Me.lbOrderID.Font = New DevExpress.Drawing.DXFont("Tahoma", 18F)
             Me.lbOrderID.LocationFloat = New DevExpress.Utils.PointFloat(400F, 17F)
             Me.lbOrderID.Name = "lbOrderID"
             Me.lbOrderID.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F)
@@ -98,7 +98,7 @@
             ' 
             ' xrPageInfo1
             ' 
-            Me.xrPageInfo1.Font = New System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, (CByte(204)))
+            Me.xrPageInfo1.Font = New DevExpress.Drawing.DXFont("Tahoma", 8.25F)
             Me.xrPageInfo1.LocationFloat = New DevExpress.Utils.PointFloat(383F, 67F)
             Me.xrPageInfo1.Name = "xrPageInfo1"
             Me.xrPageInfo1.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F)
@@ -109,7 +109,7 @@
             ' xrTableRow1
             ' 
             Me.xrTableRow1.Cells.AddRange(New DevExpress.XtraReports.UI.XRTableCell() { Me.xrTableCell1, Me.xrTableCell4, Me.xrTableCell7, Me.xrTableCell2, Me.xrTableCell13})
-            Me.xrTableRow1.Font = New System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, (CByte(204)))
+            Me.xrTableRow1.Font = New DevExpress.Drawing.DXFont("Tahoma", 8.25F, DevExpress.Drawing.DXFontStyle.Bold)
             Me.xrTableRow1.Name = "xrTableRow1"
             Me.xrTableRow1.Padding = New DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 100F)
             Me.xrTableRow1.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
@@ -169,7 +169,7 @@
             Me.xrTable2.BorderColor = System.Drawing.Color.Black
             Me.xrTable2.Borders = (CType(((DevExpress.XtraPrinting.BorderSide.Left Or DevExpress.XtraPrinting.BorderSide.Right) Or DevExpress.XtraPrinting.BorderSide.Bottom), DevExpress.XtraPrinting.BorderSide))
             Me.xrTable2.BorderWidth = 1
-            Me.xrTable2.Font = New System.Drawing.Font("Times New Roman", 9.75F)
+            Me.xrTable2.Font = New DevExpress.Drawing.DXFont("Times New Roman", 9.75F)
             Me.xrTable2.LocationFloat = New DevExpress.Utils.PointFloat(0F, 0F)
             Me.xrTable2.Name = "xrTable2"
             Me.xrTable2.Padding = New DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 100F)
@@ -222,7 +222,7 @@
             ' xrLabel1
             ' 
             Me.xrLabel1.CanShrink = True
-            Me.xrLabel1.Font = New System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, (CByte(204)))
+            Me.xrLabel1.Font = New DevExpress.Drawing.DXFont("Tahoma", 18F)
             Me.xrLabel1.LocationFloat = New DevExpress.Utils.PointFloat(25F, 17F)
             Me.xrLabel1.Name = "xrLabel1"
             Me.xrLabel1.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F)
@@ -244,7 +244,7 @@
             ' 
             ' xrLabel2
             ' 
-            Me.xrLabel2.Font = New System.Drawing.Font("Verdana", 11.25F, (CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle)), System.Drawing.GraphicsUnit.Point, (CByte(204)))
+            Me.xrLabel2.Font = New DevExpress.Drawing.DXFont("Verdana", 11.25F, (CType((DevExpress.Drawing.DXFontStyle.Bold Or DevExpress.Drawing.DXFontStyle.Italic), DevExpress.Drawing.DXFontStyle)))
             Me.xrLabel2.ForeColor = System.Drawing.Color.DimGray
             Me.xrLabel2.LocationFloat = New DevExpress.Utils.PointFloat(0F, 0F)
             Me.xrLabel2.Name = "xrLabel2"
@@ -260,7 +260,7 @@
             Me.xrTable1.BorderColor = System.Drawing.Color.FromArgb((CInt((CByte(189)))), (CInt((CByte(177)))), (CInt((CByte(183)))))
             Me.xrTable1.Borders = (CType((((DevExpress.XtraPrinting.BorderSide.Left Or DevExpress.XtraPrinting.BorderSide.Top) Or DevExpress.XtraPrinting.BorderSide.Right) Or DevExpress.XtraPrinting.BorderSide.Bottom), DevExpress.XtraPrinting.BorderSide))
             Me.xrTable1.BorderWidth = 2
-            Me.xrTable1.Font = New System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold)
+            Me.xrTable1.Font = New DevExpress.Drawing.DXFont("Times New Roman", 12F, DevExpress.Drawing.DXFontStyle.Bold)
             Me.xrTable1.LocationFloat = New DevExpress.Utils.PointFloat(0F, 38.5417F)
             Me.xrTable1.Name = "xrTable1"
             Me.xrTable1.Padding = New DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 100F)

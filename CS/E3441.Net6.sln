@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 16
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreviewSortSample", "PreviewSortSample\PreviewSortSample.Net5.csproj", "{E0AC149B-7B2E-41DC-9264-1DB5CB547E7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreviewSortSample", "PreviewSortSample\PreviewSortSample.Net6.csproj", "{E0AC149B-7B2E-41DC-9264-1DB5CB547E7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

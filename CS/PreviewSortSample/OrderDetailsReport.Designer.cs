@@ -59,7 +59,7 @@
             // 
             // lbOrderID
             // 
-            this.lbOrderID.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lbOrderID.Font = new DevExpress.Drawing.DXFont("Tahoma", 18F);
             this.lbOrderID.LocationFloat = new DevExpress.Utils.PointFloat(400F, 17F);
             this.lbOrderID.Name = "lbOrderID";
             this.lbOrderID.Padding = new DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F);
@@ -99,7 +99,7 @@
             // 
             // xrPageInfo1
             // 
-            this.xrPageInfo1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.xrPageInfo1.Font = new DevExpress.Drawing.DXFont("Tahoma", 8.25F);
             this.xrPageInfo1.LocationFloat = new DevExpress.Utils.PointFloat(383F, 67F);
             this.xrPageInfo1.Name = "xrPageInfo1";
             this.xrPageInfo1.Padding = new DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F);
@@ -115,7 +115,7 @@
             this.xrTableCell7,
             this.xrTableCell2,
             this.xrTableCell13});
-            this.xrTableRow1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.xrTableRow1.Font = new DevExpress.Drawing.DXFont("Tahoma", 8.25F, DevExpress.Drawing.DXFontStyle.Bold);
             this.xrTableRow1.Name = "xrTableRow1";
             this.xrTableRow1.Padding = new DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 100F);
             this.xrTableRow1.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft;
@@ -179,7 +179,7 @@
             this.xrTable2.Borders = ((DevExpress.XtraPrinting.BorderSide)(((DevExpress.XtraPrinting.BorderSide.Left | DevExpress.XtraPrinting.BorderSide.Right) 
             | DevExpress.XtraPrinting.BorderSide.Bottom)));
             this.xrTable2.BorderWidth = 1;
-            this.xrTable2.Font = new System.Drawing.Font("Times New Roman", 9.75F);
+            this.xrTable2.Font = new DevExpress.Drawing.DXFont("Times New Roman", 9.75F);
             this.xrTable2.LocationFloat = new DevExpress.Utils.PointFloat(0F, 0F);
             this.xrTable2.Name = "xrTable2";
             this.xrTable2.Padding = new DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 100F);
@@ -244,7 +244,7 @@
             // xrLabel1
             // 
             this.xrLabel1.CanShrink = true;
-            this.xrLabel1.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.xrLabel1.Font = new DevExpress.Drawing.DXFont("Tahoma", 18F);
             this.xrLabel1.LocationFloat = new DevExpress.Utils.PointFloat(25F, 17F);
             this.xrLabel1.Name = "xrLabel1";
             this.xrLabel1.Padding = new DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F);
@@ -268,7 +268,7 @@
             // 
             // xrLabel2
             // 
-            this.xrLabel2.Font = new System.Drawing.Font("Verdana", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.xrLabel2.Font = new DevExpress.Drawing.DXFont("Verdana", 11.25F, ((DevExpress.Drawing.DXFontStyle)((DevExpress.Drawing.DXFontStyle.Bold | DevExpress.Drawing.DXFontStyle.Italic))));
             this.xrLabel2.ForeColor = System.Drawing.Color.DimGray;
             this.xrLabel2.LocationFloat = new DevExpress.Utils.PointFloat(0F, 0F);
             this.xrLabel2.Name = "xrLabel2";
@@ -286,7 +286,7 @@
             | DevExpress.XtraPrinting.BorderSide.Right) 
             | DevExpress.XtraPrinting.BorderSide.Bottom)));
             this.xrTable1.BorderWidth = 2;
-            this.xrTable1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
+            this.xrTable1.Font = new DevExpress.Drawing.DXFont("Times New Roman", 12F, DevExpress.Drawing.DXFontStyle.Bold);
             this.xrTable1.LocationFloat = new DevExpress.Utils.PointFloat(0F, 38.5417F);
             this.xrTable1.Name = "xrTable1";
             this.xrTable1.Padding = new DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 100F);
