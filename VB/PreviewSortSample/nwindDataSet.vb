@@ -1,8 +1,5 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
 Namespace PreviewSortSample
 
-
-	Partial Public Class nwindDataSet
-	End Class
+    Public Partial Class nwindDataSet
+    End Class
 End Namespace
